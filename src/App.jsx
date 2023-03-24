@@ -11,7 +11,7 @@ export function App() {
         doSomething={function() {
             console.log("Hello");
         }}
-        isSunny
+        isSunny={true}
         >
         <img src="https://cdn.pixabay.com/photo/2018/01/21/01/46/architecture-3095716_960_720.jpg"/>
         </Greetings>
