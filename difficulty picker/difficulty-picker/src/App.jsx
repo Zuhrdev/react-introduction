@@ -1,3 +1,5 @@
+import { DisplayDifficulty } from "./components/DisplayDifficulty/DIsplayDifficulty"
+
 export function App() {
-    return <div></div>
+    return <div><DisplayDifficulty difficulty="hard"/></div>
 }
